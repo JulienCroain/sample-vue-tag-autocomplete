@@ -1,0 +1,17 @@
+{
+  "name": "sample-vue-tag-autocomplete",
+  "version": "1.0.0",
+  "description": "vue-tag-autocomplete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "poi build"
+  },
+  "author": "Julien Croain",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.8.3",
+    "sass-loader": "^6.0.7",
+    "vue-tag-autocomplete": "0.0.7"
+  }
+}
