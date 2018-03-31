@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.8.3",
+    "poi": "^9.6.13",
     "sass-loader": "^6.0.7",
     "vue-tag-autocomplete": "0.0.7"
   }
