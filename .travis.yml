@@ -4,6 +4,8 @@ cache: yarn
 install: npm install
 script:
 - npm run build
+before_deploy:
+  - cd ./dist
 deploy:
   provider: azure_web_apps
   skip_cleanup: true
